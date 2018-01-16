@@ -1,0 +1,16 @@
+PODS:
+  - CMAlert (0.1.0)
+
+DEPENDENCIES:
+  - CMAlert (from `../`)
+
+EXTERNAL SOURCES:
+  CMAlert:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CMAlert: 03c6c67169ff751b1fbaa4083c63e7e2dca77bb3
+
+PODFILE CHECKSUM: 7e8dce51ae63b2d92fd26474f15bb28613f1d678
+
+COCOAPODS: 1.3.1

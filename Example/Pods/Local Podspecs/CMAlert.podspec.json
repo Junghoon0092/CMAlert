@@ -1,0 +1,22 @@
+{
+  "name": "CMAlert",
+  "version": "0.1.0",
+  "summary": "A short description of CMAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cjh0092@naver.com/CMAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cjh0092@naver.com": "cjh0092@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/cjh0092@naver.com/CMAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CMAlert/Classes/**/*"
+}
