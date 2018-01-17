@@ -1,9 +1,10 @@
 # CMAlert
-
-[![CI Status](http://img.shields.io/travis/cjh0092@naver.com/CMAlert.svg?style=flat)](https://travis-ci.org/cjh0092@naver.com/CMAlert)
-[![Version](https://img.shields.io/cocoapods/v/CMAlert.svg?style=flat)](http://cocoapods.org/pods/CMAlert)
-[![License](https://img.shields.io/cocoapods/l/CMAlert.svg?style=flat)](http://cocoapods.org/pods/CMAlert)
-[![Platform](https://img.shields.io/cocoapods/p/CMAlert.svg?style=flat)](http://cocoapods.org/pods/CMAlert)
+[![GitHub Release Date](https://img.shields.io/badge/Language-Swift 4.0-red.svg)]()
+[![GitHub Release Date](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg)]()
+[![CocoaPods](https://img.shields.io/cocoapods/dt/AFNetworking.svg)]()
+[![Version](https://img.shields.io/cocoapods/v/CMAlert.svg?style=flat)]()
+[![License](https://img.shields.io/cocoapods/l/CMAlert.svg?style=flat)]()
+[![Platform](https://img.shields.io/cocoapods/p/CMAlert.svg?style=flat)]()
 
 ## Example
 
@@ -22,8 +23,10 @@ pod 'CMAlert'
 
 ## Author
 
-cjh0092@naver.com, cjh@renomedia.co.kr
+[Junghoon](coolmint.swift@gmail.com)
 
 ## License
 
 CMAlert is available under the MIT license. See the LICENSE file for more info.
+
+
