@@ -1,0 +1,6 @@
+framework module Pods_CMAlert_Tests {
+  umbrella header "Pods-CMAlert_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

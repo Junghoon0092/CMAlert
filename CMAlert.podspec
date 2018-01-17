@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CMAlert'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of CMAlert.'
+  s.version          = '0.6.0'
+  s.summary          = 'CMalert Controller Easy.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+CMalert Controller Easy.CMalert Controller EasyCMalert Controller Easy
                        DESC
 
-  s.homepage         = 'https://github.com/cjh0092@naver.com/CMAlert'
+  s.homepage         = 'https://github.com/Junghoon0092/CMAlert'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'cjh0092@naver.com' => 'cjh@renomedia.co.kr' }
-  s.source           = { :git => 'https://github.com/cjh0092@naver.com/CMAlert.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Junghoon0092/CMAlert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
