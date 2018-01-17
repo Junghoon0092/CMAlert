@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CMAlert_Example' do
+  pod 'CMAlert', :path => '../'
+
+  target 'CMAlert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
